@@ -1,7 +1,7 @@
-#My CV
+# My CV
 
-##Education
+## Education
 
-##Work Experience
+## Work Experience
 
-##Skills
+## Skills
